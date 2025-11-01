@@ -14,8 +14,6 @@ Changelog
 
 Explicação dos comandos de pesquisa
 
-A seguir explico as partes principais do arquivo 'pesquisa-resultado.php', linha a linha/por blocos funcionais, para você entender exatamente o que cada comando faz e como o fluxo de pesquisa funciona.
-
 1) Inclusão da conexão
 
 include_once("conectar.php");
